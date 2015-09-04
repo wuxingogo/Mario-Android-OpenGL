@@ -8,4 +8,4 @@ You can learn about the OpenglES StateMachine in this repositorie.
 
 Sorry my english.^_^
 
-{% img https://github.com/wuxingogo/wuxingogo.github.io/blob/master/images/opengl/engine.png %}
+(http://github.com/wuxingogo/wuxingogo.github.io/blob/master/images/opengl/engine.png)
